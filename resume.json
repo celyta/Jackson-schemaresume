@@ -1,0 +1,93 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Person",
+  "name": "Celyta Jackson",
+  "alternateName": "Celyta A. Jackson",
+  "url": "https://www.yourwebsite.com",
+  "image": "https://www.yourwebsite.com/photo.jpg",
+  "jobTitle": "Global Marketing & Communications Executive | Consultant",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Boston",
+    "addressRegion": "MA",
+    "postalCode": "02108",
+    "addressCountry": "USA"
+  },
+  "email": "mailto:celyta@gmail.com",
+  "telephone": "(917) 355-2905",
+  "sameAs": [
+    "https://www.linkedin.com/in/celytajackson",
+    "https://twitter.com/yourhandle"
+  ],
+  "knowsLanguage": [
+    {
+      "@type": "Language",
+      "name": "English",
+      "proficiencyLevel": "native"
+    },
+    {
+      "@type": "Language",
+      "name": "Portuguese",
+      "proficiencyLevel": "fluent"
+    },
+    {
+      "@type": "Language",
+      "name": "Spanish",
+      "proficiencyLevel": "conversational"
+    }
+  ],
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Global Marketing & Communications Executive",
+    "occupationalCategory": "13-1161.00 (Market Research Analysts and Marketing Specialists)",
+    "skills": [
+      "Global talent management",
+      "Cross-cultural leadership",
+      "Partnership development",
+      "Destination marketing",
+      "Trade show management",
+      "Pet industry consulting",
+      "Hospitality and tourism",
+      "International business development"
+    ]
+  },
+  "worksFor": [
+    {
+      "@type": "Organization",
+      "name": "Global Marketing & Communications",
+      "jobTitle": "Vice President",
+      "startDate": "2002",
+      "description": "Led international marketing strategy, representation offices, and multimillion-dollar partnerships across Latin America, Asia, and the Middle East."
+    },
+    {
+      "@type": "Organization",
+      "name": "A Sanctuary Cafe",
+      "jobTitle": "Consultant",
+      "startDate": "2024",
+      "description": "Advised on concept development and brand strategy for a feline-focused hospitality venture.",
+      "endDate": "2025"
+    },
+    {
+      "@type": "Organization",
+      "name": "The Cat Cafe South Beach",
+      "jobTitle": "Founder & Operator",
+      "startDate": "2016",
+      "endDate": "2022",
+      "description": "Founded and operated Miami Beach\u2019s first cat caf\u00e9, blending hospitality, wellness, and animal adoption in a successful small-business model."
+    },
+    {
+      "@type": "Organization",
+      "name": "NYC & Company (now New York City Tourism + Conventions)",
+      "jobTitle": "Vice President, Tourism",
+      "description": "Directed global destination marketing campaigns, managed international trade shows such as IPW and World Travel Market, and built representation networks worldwide."
+    }
+  ],
+  "alumniOf": [
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "George Washington University \u2013 Elliott School of International Relations",
+      "sameAs": "https://elliott.gwu.edu/"
+    }
+  ],
+  "description": "Global marketing and communications executive with extensive expertise in tourism, hospitality, international trade shows, and pet industry consulting. Skilled in forging partnerships, managing large-scale events, and leading cross-cultural teams."
+}
